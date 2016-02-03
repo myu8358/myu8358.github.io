@@ -9,6 +9,10 @@ body{
 h1{
   text-align: center;
 }
+nav{
+    text-align:center;
+    background:#fff;
+}
 nav ul li{
     margin:0 20px;
     display:inline-block;

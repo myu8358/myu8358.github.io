@@ -16,6 +16,10 @@ footer{
     background-color:whit;
     color:#666;
 }
+nav{
+    text-align:center;
+    background:#fff;
+}
 nav ul li{
     margin:0 20px;
     display:inline-block;
