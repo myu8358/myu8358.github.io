@@ -1,0 +1,30 @@
+*{
+    background-color:white;
+}
+body{
+     font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+    background-color:#ddd;
+    font-size:14px;
+}
+h1,h2{
+  text-align: center;
+}
+footer{
+    padding:20px 0;
+    font-size:93%;
+    text-align:center;
+    background-color:whit;
+    color:#666;
+}
+nav ul li{
+    margin:0 20px;
+    display:inline-block;
+}
+nav ul li a{
+    text-decoration:none;
+    color:#999;
+    front-weight:bold;
+}
+nav ul li a.selected{
+    color:#000;
+}
